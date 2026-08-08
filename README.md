@@ -12,7 +12,7 @@ Repositório dedicado ao armazenamento de desafios, exercícios e projetos desen
 
 | Exercício                                                  | Descrição                                                         | Principais Conceitos                         |
 |:-----------------------------------------------------------|:------------------------------------------------------------------|:---------------------------------------------|
-| [`Ex001_ConversorTemp`](./src/Ex001-ConversorTemp)         | Conversor de Celsius para Fahrenheit/Kelvin com validação de loop | `Scanner`, `while(true)`, `equalsIgnoreCase` |
+| [`Ex001_ConversorTemp`](./src/Ex001_ConversorTemp)         | Conversor de Celsius para Fahrenheit/Kelvin com validação de loop | `Scanner`, `while(true)`, `equalsIgnoreCase` |
 | [`Ex002_VariaveisECasting`](./src/Ex002_VariaveisECasting) | Sistema de compras com dois sistemas de moedas diferentes         | `casting`, `concatenação`                    |
 
 ---

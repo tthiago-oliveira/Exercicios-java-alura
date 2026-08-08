@@ -12,7 +12,7 @@ Repositório dedicado ao armazenamento de desafios, exercícios e projetos desen
 
 | Exercício | Descrição | Principais Conceitos |
 | :--- | :--- | :--- |
-| [`ConversorTemp-Ex001`](./ConversorTemp-Ex001) | Conversor de Celsius para Fahrenheit/Kelvin com validação de loop | `Scanner`, `while(true)`, `equalsIgnoreCase` |
+| [`ConversorTemp-Ex001`](Ex001-ConversorTemp) | Conversor de Celsius para Fahrenheit/Kelvin com validação de loop | `Scanner`, `while(true)`, `equalsIgnoreCase` |
 
 ---
 *Desenvolvido por Thiago Oliveira.*

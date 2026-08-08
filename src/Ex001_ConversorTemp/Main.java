@@ -1,3 +1,5 @@
+package Ex001_ConversorTemp;
+
 import java.util.Scanner;
 
 public class Main {

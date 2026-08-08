@@ -10,9 +10,10 @@ Repositório dedicado ao armazenamento de desafios, exercícios e projetos desen
 
 ## 📁 Estrutura do Repositório
 
-| Exercício | Descrição | Principais Conceitos |
-| :--- | :--- | :--- |
-| [`ConversorTemp-Ex001`](Ex001-ConversorTemp) | Conversor de Celsius para Fahrenheit/Kelvin com validação de loop | `Scanner`, `while(true)`, `equalsIgnoreCase` |
+| Exercício                                            | Descrição                                                         | Principais Conceitos                         |
+|:-----------------------------------------------------|:------------------------------------------------------------------|:---------------------------------------------|
+| [`Ex001_ConversorTemp`](Ex001-ConversorTemp)         | Conversor de Celsius para Fahrenheit/Kelvin com validação de loop | `Scanner`, `while(true)`, `equalsIgnoreCase` |
+| [`Ex002_VariaveisECasting`](Ex002_VariaveisECasting) | Sistema de compras com dois sistemas de moedas diferentes         | `casting`, `concatenação`                    |
 
 ---
 *Desenvolvido por Thiago Oliveira.*

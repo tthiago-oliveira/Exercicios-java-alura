@@ -30,7 +30,6 @@ public class Main {
 
             //condicional que aceira tanto as formas abreviadas com e sem grau e a forma extensa
             if (resposta.equalsIgnoreCase("ºF") || resposta.equalsIgnoreCase("F")
-
                     || resposta.equalsIgnoreCase("fahrenheit")) {
 
                 System.out.println("A temperatura em ºF é: " + temperaturaConvertidaF);

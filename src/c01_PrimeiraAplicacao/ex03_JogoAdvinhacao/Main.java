@@ -1,4 +1,4 @@
-package c01_PrimeiraAplicacao.Ex03_JogoAdvinhacao;
+package c01_PrimeiraAplicacao.ex03_JogoAdvinhacao;
 
 import java.util.Random;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package Ex005_JavaCash;
+package c01_PrimeiraAplicacao.Ex05_JavaCash;
 
 import java.util.Scanner;
 import java.util.Random;

@@ -1,4 +1,4 @@
-package Ex002_VariaveisECasting;
+package c01_PrimeiraAplicacao.Ex02_VariaveisECasting;
 
 import java.util.Scanner;
 

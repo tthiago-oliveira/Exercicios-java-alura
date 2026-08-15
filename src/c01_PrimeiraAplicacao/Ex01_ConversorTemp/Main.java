@@ -1,4 +1,4 @@
-package Ex001_ConversorTemp;
+package c01_PrimeiraAplicacao.Ex01_ConversorTemp;
 
 import java.util.Scanner;
 

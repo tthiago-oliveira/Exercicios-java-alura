@@ -1,4 +1,4 @@
-package Ex004_MathHub;
+package c01_PrimeiraAplicacao.Ex04_MathHub;
 
 import java.util.Scanner;
 

@@ -1,6 +1,7 @@
-# Exercício 05: JavaCash (Simulador de Conta Bancária)
+# 🏦 Exercício 05: JavaCash (Simulador de Conta Bancária)
 
-Aplicação interativa em Java desenvolvida como projeto final do curso "Java: Criando a sua primeira aplicação" da Alura. O programa simula as operações básicas de uma conta corrente via console.
+Aplicação interativa em Java desenvolvida como projeto final do curso "Java: Criando a sua primeira aplicação" da 
+Alura. O programa simula as operações básicas de uma conta corrente via console.
 
 ## 📌 Funcionalidades
 - **Cadastro Inicial:** Leitura do nome do cliente e geração de saldo inicial aleatório.
